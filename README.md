@@ -25,7 +25,7 @@ I am a dedicated data enthusiast currently building a portfolio of end-to-end pr
 - 🔭 I’m currently working on: **End-to-End Regional Sales Analysis**
 - 🌱 I’m currently learning: **Predictive Modeling & A/B Testing**
 - 💬 Ask me about: **SQL Joins, Data Cleaning, & Trend Analysis**
-- 📫 How to reach me: www.linkedin.com/in/vaidehijbharambe
+- 📫 How to reach me: www.linkedin.com/in/vaidehibharambeaulagar
 
 
 ## 🛠 My Tech Stack
