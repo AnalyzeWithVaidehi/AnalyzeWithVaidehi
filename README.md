@@ -1,51 +1,29 @@
-👋 Hi, I'm Vaidehi
+# 👋 Hi, I'm Vaidehi
 
-I am a dedicated data enthusiast currently building a portfolio of end-to-end projects. My goal is to apply data-driven solutions to real-world business problems while continuously expanding my technical toolkit.
+I am a dedicated data enthusiast with a Master's in Computer Science, actively building a portfolio of end-to-end data projects. My goal is to apply data-driven solutions to real-world business problems, bridging the gap between raw data and actionable predictive insights. 
 
-- 🔭 Current Sprint: **Completing an End-to-End Regional Sales Analysis (SQL + Python + Power BI).**
-- 🛠 Actively Building Skills In: **SQL (Window Functions/CTEs), Python (Pandas/Seaborn), and Statistical Forecasting.**
-- 🌱 Learning Mindset: **Currently exploring how to bridge the gap between descriptive analytics and predictive modeling.**
-- 💬 Ask me about: **The projects I'm building or my journey transitioning into Data Analytics.**
-- 📫 Connect with me: www.linkedin.com/in/vaidehijbharambe
+- 💬 **Ask me about:** The projects I'm building, my journey into Data Science, or statistical forecasting!
+- 📫 **Connect with me:** [www.linkedin.com/in/vaidehijbharambe](https://www.linkedin.com/in/vaidehijbharambe)
 
-## 🛠 My Tech Stack (Current Focus)
+## 🚀 Project Roadmap & Current Sprints
 
-- **Data Retrieval:** SQL (MySQL/PostgreSQL)
-- **Analysis:** Python, Excel (Power Query/Pivot Tables)
-- **Visualization**: Power BI / Tableau
-- **Foundational Stats:** Probability, Trend Analysis, & Regression
+### 🏁 Recently Completed & Iterating
+**Regional Sales Analysis (SQL + Python + Power BI)**
+* **The Data Work:** Extracted and transformed data using SQL views, followed by Exploratory Data Analysis (EDA) using Python (Pandas/Seaborn). 
+* **The Science:** Built revenue forecasting models for 2026, iterating to a Seasonal Naïve method for accuracy.
+* **Current Iteration:** Currently refining the 3-page interactive Power BI dashboard to perfect the KPI cards, gap analysis, and executive styling.
 
+### 🔭 Currently Building
+**Customer Churn Analysis**
+* Diving deep into customer behavior to identify drop-off points and predict retention risks. 
 
+### 🌱 Up Next
+**Advanced Data Cleaning & Visualization**
+* Planning a dedicated, messy-data cleaning sprint to solidify foundational data hygiene skills, capped off with a dynamic Power BI dashboard.
 
+## 🛠 My Tech Stack 
 
-
-<!-- # 👋 Hi, I'm Vaidehi
-### Aspiring Data Analyst & Scientist | Focused on Business Intelligence
-
-- 🔭 I’m currently working on: **End-to-End Regional Sales Analysis**
-- 🌱 I’m currently learning: **Predictive Modeling & A/B Testing**
-- 💬 Ask me about: **SQL Joins, Data Cleaning, & Trend Analysis**
-- 📫 How to reach me: www.linkedin.com/in/vaidehibharambeaulagar
-
-
-## 🛠 My Tech Stack
-- **Languages:** Python (Pandas, Numpy), SQL (MySQL/PostgreSQL)
-- **Tools:** Power BI, Tableau, Excel, Git/GitHub
-- **Stats:** Linear Regression, Hypothesis Testing
--->
-
-
-<!--
-**AnalyzeWithVaidehi/AnalyzeWithVaidehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data Retrieval & Manipulation:** SQL (MySQL/PostgreSQL, Window Functions, CTEs), Python (Pandas, NumPy)
+- **Data Visualization & BI:** Power BI, Tableau, Excel (Power Query/Pivot Tables)
+- **Statistical Analysis:** Probability, Trend Analysis, Seasonal Forecasting, & Regression
+- **Version Control:** Git/GitHub
