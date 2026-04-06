@@ -3,7 +3,7 @@
 I am a dedicated data enthusiast with a Master's in Computer Science, actively building a portfolio of end-to-end data projects. My goal is to apply data-driven solutions to real-world business problems, bridging the gap between raw data and actionable predictive insights. 
 
 - 💬 **Ask me about:** The projects I'm building, my journey into Data Science, or statistical forecasting!
-- 📫 **Connect with me:** [www.linkedin.com/in/vaidehijbharambe](https://www.linkedin.com/in/vaidehijbharambe)
+- 📫 **Connect with me:** [www.linkedin.com/in/vaidehibharambeaulagar](https://www.linkedin.com/in/vaidehibharambeaulagar) 
 
 ## 🚀 Project Roadmap & Current Sprints
 
