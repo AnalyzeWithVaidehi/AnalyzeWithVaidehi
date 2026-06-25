@@ -26,12 +26,17 @@ I am a dedicated data enthusiast with a Master's in Computer Science, actively b
 * Identified drop-off points and retention risk patterns.
 * Supported by strategic [Project Scoping Framework](https://github.com/AnalyzeWithVaidehi/maven-customer-churn-project-scoping).
 
-### 🔭 Currently Building
 
-**[GameZone Sales Data Cleaning](https://github.com/AnalyzeWithVaidehi/gamezone-sales-data-cleaning) (EDA Phase)**
+**[GameZone Sales Data Cleaning](https://github.com/AnalyzeWithVaidehi/gamezone-sales-data-cleaning) ✅ COMPLETED**
 * Data quality audit completed for global e-commerce sales transactions.
 * Next: Comprehensive Exploratory Data Analysis with Python to uncover trends and patterns.
-* Building toward Power BI dashboard for sales insights.
+
+**[GameZone Sales Exploratory Data Analysis](https://github.com/AnalyzeWithVaidehi/GameZone-Sales-EDA) ✅ COMPLETED**
+- Analyzed 20,000+ global e-commerce transactions for gaming products
+- Discovered critical business anomalies using SCAN framework (Stakeholder Goals, Columns & Coverage, Aggregates & Anomalies, Notable Segments)
+- Key insights: 27in 4K Gaming Monitor as top revenue driver ($2M+), pandemic-era 2020 macro-spike, and alarming PS5 regional performance crash (NA/EMEA)
+- Built interactive [Tableau dashboard](https://public.tableau.com/app/profile/vaidehi.bharambe/viz/GameZoneEDAAnalysis/overallUSD) with multi-dimensional analysis across regions, products, and marketing channels
+- Delivered data-driven recommendations for Finance (supply chain protection), Marketing (reduce Direct Traffic over-reliance), and Product teams (PS5 regional anomaly investigation)
 
 ### 🌱 Up Next
 * Advanced predictive modeling and statistical deep-dives
@@ -42,9 +47,10 @@ I am a dedicated data enthusiast with a Master's in Computer Science, actively b
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
 | [Regional-Sales-Analysis](https://github.com/AnalyzeWithVaidehi/Regional-Sales-Analysis) | End-to-end sales analysis with predictive trend forecasting | Python, SQL, Power BI, Excel| ✅ Completed |
-| [maven-customer-churn-EDA](https://github.com/AnalyzeWithVaidehi/maven-customer-churn-EDA) | Customer churn analysis with exploratory data analysis | Python (Jupyter) | ✅ Completed |
 | [maven-customer-churn-project-scoping](https://github.com/AnalyzeWithVaidehi/maven-customer-churn-project-scoping) | Strategic project scoping framework for churn analysis | Documentation | ✅ Completed |
-| [gamezone-sales-data-cleaning](https://github.com/AnalyzeWithVaidehi/gamezone-sales-data-cleaning) | Data quality audit and cleaning for e-commerce transactions | Excel, Python | In Progress |
+| [maven-customer-churn-EDA](https://github.com/AnalyzeWithVaidehi/maven-customer-churn-EDA) | Customer churn analysis with exploratory data analysis | Python (Jupyter) | ✅ Completed |
+| [gamezone-sales-data-cleaning](https://github.com/AnalyzeWithVaidehi/gamezone-sales-data-cleaning) | Data quality audit and cleaning for e-commerce transactions | Excel, Python | ✅ Completed |
+| [Gamezone-Sales-EDA](https://github.com/AnalyzeWithVaidehi/GameZone-Sales-EDA) | 20k+ transaction EDA uncovering gaming market trends & product anomalies | Excel, Tableau, Python | ✅ Completed |
 
 ## 🛠 My Tech Stack 
 
@@ -56,4 +62,4 @@ I am a dedicated data enthusiast with a Master's in Computer Science, actively b
 
 ---
 
-**Last Updated:** May 2026
+
